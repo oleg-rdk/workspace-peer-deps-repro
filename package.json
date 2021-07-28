@@ -1,7 +1,11 @@
 {
   "name": "workspace-peer-deps-repro",
   "version": "1.0.0",
-  "workspaces": ["a", "b", "pkg"],
+  "workspaces": [
+    "a",
+    "b",
+    "pkg"
+  ],
   "main": "index.js",
   "repository": "git@github.com:oleg-rdk/workspace-peer-deps-repro.git",
   "author": "oleg-rdk <oleg.buiar.pro@preply.com>",
