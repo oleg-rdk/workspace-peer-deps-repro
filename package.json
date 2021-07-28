@@ -10,5 +10,6 @@
   "repository": "git@github.com:oleg-rdk/workspace-peer-deps-repro.git",
   "author": "oleg-rdk <oleg.buiar.pro@preply.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "packageManager": "yarn@3.0.0"
 }
